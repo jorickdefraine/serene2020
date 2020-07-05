@@ -1,0 +1,1 @@
+The dataset is composed by a number of (grayscale) images representing letters, number and symbols across 20 classes. The train and test set are composed respectively of 112862 train images and 12541 test images. Each image is grayscale, 28 rows x 22 cols; every sample of a label (1 byte) followed by the image (28*22 = 616 bytes) or a total of 617 bytes per sample.
